@@ -34,7 +34,7 @@
       "sizes": "512x512"
     }
   ],
-  "scope": "/",
+  "scope": "/AstroRoops/",
   "start_url": "https://sridharsai-veerubhotla.github.io/AstroRoops/",
   "display": "standalone",
   "theme_color": "#000000",
