@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/AstroRoops/static/css/main.576ec7d2.css",
-    "main.js": "/AstroRoops/static/js/main.3b33cff5.js",
+    "main.js": "/AstroRoops/static/js/main.c1971ff0.js",
     "static/js/787.946ec37b.chunk.js": "/AstroRoops/static/js/787.946ec37b.chunk.js",
+    "service-worker.js": "/AstroRoops/service-worker.js",
     "index.html": "/AstroRoops/index.html",
     "main.576ec7d2.css.map": "/AstroRoops/static/css/main.576ec7d2.css.map",
-    "main.3b33cff5.js.map": "/AstroRoops/static/js/main.3b33cff5.js.map",
+    "main.c1971ff0.js.map": "/AstroRoops/static/js/main.c1971ff0.js.map",
     "787.946ec37b.chunk.js.map": "/AstroRoops/static/js/787.946ec37b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.576ec7d2.css",
-    "static/js/main.3b33cff5.js"
+    "static/js/main.c1971ff0.js"
   ]
 }
