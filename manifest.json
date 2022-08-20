@@ -38,5 +38,32 @@
   "start_url": "https://sridharsai-veerubhotla.github.io/AstroRoops/",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "shortcuts" : [
+    {
+      "name": "Home",
+      "url": "/",
+      "description": "Home Page AstroRoops."
+    },
+    {
+      "name": "BhagvadGita",
+      "url": "/BhagvadGita",
+      "description": "Learn BhagvadGita Slokas."
+    },
+    {
+      "name": "Day Details",
+      "url": "/Day",
+      "description": "Daily Details"
+    },    
+    {
+      "name": "Anandhadhi Yogam",
+      "url": "/AanandhadhiYogam",
+      "description": "Anandadhi Yogam."
+    },
+    {
+      "name": "Sukra Siddantam",
+      "url": "/",
+      "description": "SukraSiddantam."
+    }
+  ]
 }
